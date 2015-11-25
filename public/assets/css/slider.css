@@ -12,6 +12,9 @@
 }
 body .title{
     text-align:center;
+    color: yellow;
+    margin-left: auto !important;
+    margin-right: auto !important;
 }
 
 body, figure { 
@@ -21,8 +24,9 @@ body, figure {
   
 }
 div #captioned-gallery { 
-  width: 50%; overflow: hidden; 
-   margin-left: auto !important;
+  width: 100%; overflow: hidden; 
+  height: 66%;
+  margin-left: auto !important;
   margin-right: auto !important;
 }
 figure.slider { 
@@ -42,3 +46,9 @@ figure.slider figure figcaption {
   font-size: 2rem; padding: .6rem; 
 }
 
+.img-circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 20px;
+}

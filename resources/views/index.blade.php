@@ -9,7 +9,6 @@
 
 @section('content')
 <body>
-    <container>
         <div id="captioned-gallery">
 	<figure class="slider">
 		<figure>
@@ -34,9 +33,22 @@
 		</figure>
 	</figure>
 </div>
-    </container>
-     <div class="title">
+    
+     <div>
             <h1 class="title">¿Qué Quieres Hacer?</h1>
+            
+                <img class="img-circle" src="https://image.freepik.com/free-icon/man-sitting-in-front-of-a-table-eating-and-drinking-while-having-lunch_318-62566.png" />
+                <img class="img-circle" src="http://univers-maya.fr/wp-content/uploads/2013/09/boire.jpg" />
+                <img class="img-circle" src="https://despiertaiglesiaya.files.wordpress.com/2013/02/bailar.jpg" />
+                <img class="img-circle" src="http://www.buscorestaurantes.com/files/logo/Cafe-Sito-II-103683.jpg" />
+                <img class="img-circle" src="http://cdn5.dibujos.net/dibujos/pintar/cine.gif" />
+            
+           
+            <div class="circle-image"></div>
+             <div class="circle-image"></div>
+             <div class="circle-image"></div>
+             <div class="circle-image"></div>
+             <div class="circle-image"></div>
         </div>
     </body>
 @stop
