@@ -1,0 +1,15 @@
+  /* WebKit and Opera browsers */
+  @-webkit-keyframes focus {
+    from { -webkit-transform: translateY(-4px);    }
+    to   { -webkit-transform: translateY(4px); }
+  }
+@keyframes focus
+  from {
+    transform: translateY(-1px)
+  }to{
+    transform: translateY(1px)
+	}
+
+#imag:hover{
+    animation: focus 1s infinite alternate;
+}
