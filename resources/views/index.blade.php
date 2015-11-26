@@ -1,7 +1,7 @@
 @extends('layout.layout')
 
 <link rel="stylesheet" href="assets/css/slider.css" type="text/css" />
-
+<<link rel="stylesheet" href="assets/css/spinner.css" type ="text/css"/>
 
 @section('t', 'Page Title')
 
@@ -35,7 +35,10 @@
 </div>
     
      <div>
-            <h1 class="title">¿Qué Quieres Hacer?</h1>
+            
+            <div id="stage" style="background: rgba(0,0,0,0.5);">
+<p id="spinner" style="background: rgba(0,0,0,0.5); text-align: center; color: #fff;">¿Qué Quieres Hacer?</p>
+</div>
             
                 <img class="img-circle" src="https://image.freepik.com/free-icon/man-sitting-in-front-of-a-table-eating-and-drinking-while-having-lunch_318-62566.png" />
                 <img class="img-circle" src="http://univers-maya.fr/wp-content/uploads/2013/09/boire.jpg" />
