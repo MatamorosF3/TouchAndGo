@@ -45,6 +45,9 @@
                 <img class="img-circle" src="https://despiertaiglesiaya.files.wordpress.com/2013/02/bailar.jpg" />
                 <img class="img-circle" src="http://www.buscorestaurantes.com/files/logo/Cafe-Sito-II-103683.jpg" />
                 <img class="img-circle" src="http://cdn5.dibujos.net/dibujos/pintar/cine.gif" />
+                <img class="img-circle" src="http://www.idibujos.com/wp-content/uploads/2012/04/Leer.jpg" /> 
+                <img class="img-circle" src="http://blogs.ceibal.edu.uy/formacion/wp-content/uploads/2014/12/turismo.jpg" /> 
+              
             
            
             <div class="circle-image"></div>
