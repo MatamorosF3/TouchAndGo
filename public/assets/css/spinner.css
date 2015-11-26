@@ -39,3 +39,13 @@
     -webkit-animation-play-state: paused;
     animation-play-state: paused;
   }
+
+@keyframes focus
+  from 
+    transform: translateY(-1px)
+  to
+    transform: translateY(1px)
+
+#circles imag:hover{
+    animation: focus 1s infinite alternate;
+}
