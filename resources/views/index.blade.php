@@ -2,7 +2,7 @@
 
 <link rel="stylesheet" href="assets/css/slider.css" type="text/css" />
 <link rel="stylesheet" href="assets/css/spinner.css" type ="text/css"/>
-<link rel="stylesheet" href="assets/css/circle.css" type ="text/css"/>
+<link rel="stylesheet" href="assets/css/circle.css?v=2" type ="text/css"/>
 
 
 @section('t', 'Page Title')
@@ -35,9 +35,7 @@
 		</figure>
 	</figure>
 </div>
-    <style>
 
-</style>
      <div id= "circles" >
         <div id="stage" style="background: rgba(142, 42, 48, 0.6);">
 		<p id="spinner" style="background: rgba(0,1,1,0.5); text-align: center; color: #fff;">¿Qué Quieres Hacer?</p>
