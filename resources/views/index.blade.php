@@ -2,8 +2,8 @@
 
 <link rel="stylesheet" href="assets/css/slider.css" type="text/css" />
 <link rel="stylesheet" href="assets/css/spinner.css" type ="text/css"/>
-<link rel="stylesheet" href="assets/css/circle.css?v=2" type ="text/css"/>
-<link href='https://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="assets/css/circle.css?v=1" type ="text/css"/>
+
 
 @section('t', 'Page Title')
 

@@ -49,3 +49,14 @@
 #circles imag:hover{
     animation: focus 1s infinite alternate;
 }
+
+#spinner {
+  margin-top:0px;
+  background: rgba(0,1,1,0.5); 
+  font-size: 25; 
+  font-family: 'Nunito', sans-serif; 
+  text-align: center;
+  color: #fff;"
+  
+  
+}
