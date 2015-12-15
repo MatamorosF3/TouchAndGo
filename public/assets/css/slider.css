@@ -25,7 +25,7 @@ body, figure {
 }
 div #captioned-gallery { 
   width: 100%; overflow: hidden; 
-  height: 66%;
+  height: 450px;
   margin-left: auto !important;
   margin-right: auto !important;
 }

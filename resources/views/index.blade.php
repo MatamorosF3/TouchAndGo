@@ -10,8 +10,7 @@
 
 
 @section('content')
-<body>
-        <div id="captioned-gallery">
+<div id="captioned-gallery">
 	<figure class="slider">
 		<figure>
 			<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/hobbiton-lake.jpg" alt>
@@ -36,6 +35,5 @@
 	</figure>
 </div>
 
-    
-    </body>
+ 
 @stop
