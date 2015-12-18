@@ -1,1 +1,0 @@
-{"virtualbox":{"/home/vagrant/Code":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/Code","hostpath":"C:/Users/fjmc_/Documents/LaravelHomestead/Homestead","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/fjmc_/Documents/LaravelHomestead/Homestead/TouchAndGo","disabled":false}}}
